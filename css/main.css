@@ -1076,7 +1076,7 @@ textarea.form-control, textarea.form-control:focus {
   text-align: center;
   padding: 5px 0;
   margin-bottom: 30px;
-  opacity: .7;
+  opacity: .95;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
